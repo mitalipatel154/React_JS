@@ -33,9 +33,7 @@ src/
 ├── main.jsx
 └── components/
     ├── RecordForm.jsx
-    ├── RecordForm.css
     ├── RecordList.jsx
-    ├── RecordList.css
     └── RecordRow.jsx
 ```
 ---
