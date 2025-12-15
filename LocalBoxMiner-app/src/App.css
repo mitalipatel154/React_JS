@@ -1,0 +1,91 @@
+:root {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.records {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.records  p{
+    margin: 9px;
+}
+
+button {
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+button.delete {
+    background: #d9534f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.edit{
+    background: #36bd01;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button.cancel {
+    background: #999;
+    color: white;
+    border: none;
+}
+
+.form {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.empty {
+    text-align: center;
+    margin-top: 20px;
+}
