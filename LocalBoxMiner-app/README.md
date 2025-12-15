@@ -20,7 +20,7 @@ This project is suitable for **college assignments, practical exams, and viva**.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 ![OutPut](./src/assets/images/Screenshot.png)
 
