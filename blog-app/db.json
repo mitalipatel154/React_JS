@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "4bbd",
+      "title": "Getting Started with React",
+      "description": "React is one of the most popular JavaScript libraries for building user interfaces. In this guide, we explore the basics of components, JSX, and how to create your first React app.",
+      "date": "2026-03-10",
+      "image": "https://avatars.githubusercontent.com/u/6412038?s=280&v=4",
+      "category": "React"
+    },
+    {
+      "id": "dabd",
+      "title": "Understanding the DOM",
+      "description": "The Document Object Model (DOM) represents the structure of a web page. Learn how JavaScript interacts with the DOM to update content dynamically.",
+      "date": "2026-03-10",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      "category": "JavaScript"
+    },
+    {
+      "id": "762f",
+      "title": "What is Redux and Why Use It?",
+      "description": "Redux helps manage complex state in large React applications. This article explains the store, actions, and reducers in a simple way.",
+      "date": "2026-03-12",
+      "image": "https://www.tutorialswebsite.com/wp-content/uploads/react-redux.png",
+      "category": "Redux"
+    },
+    {
+      "id": "7885",
+      "title": "Introduction to Vite",
+      "description": "Vite is a modern build tool that makes frontend development faster. Discover why developers prefer Vite over traditional bundlers.",
+      "date": "2026-03-11",
+      "image": "https://ionic.io/blog/wp-content/uploads/2024/04/vite-feature-image-2048x1024.png",
+      "category": "Tools"
+    },
+    {
+      "id": "1fd2",
+      "title": "Understanding API in Web Development",
+      "description": "APIs allow applications to communicate with each other. Learn how APIs work and why they are important.",
+      "date": "2026-03-13",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdyNzXlqItoepGhQ58c87z0M0j9uyrm28Kw&s",
+      "category": "Web Development"
+    },
+    {
+      "id": "e345",
+      "title": "Why JavaScript is So Popular",
+      "description": "JavaScript powers the modern web. Discover why it has become one of the most widely used programming languages.",
+      "date": "2026-03-14",
+      "image": "https://read.learnyard.com/content/images/2024/07/logo.png",
+      "category": "JavaScript"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
