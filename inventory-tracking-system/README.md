@@ -16,14 +16,14 @@ All data is stored in **Firebase Realtime Database**, ensuring that updates are 
 
 ## ✨ Features
 
-✔️ Add new products to inventory
-✔️ View all products in a structured table
-✔️ Edit product details
-✔️ Delete products
-✔️ Low stock alert (products with stock below 5 are highlighted)
-✔️ Real-time database synchronization
-✔️ Responsive UI with clean design
-✔️ Product image support
+- ✔️ Add new products to inventory  
+- ✔️ View all products in a structured table  
+- ✔️ Edit product details  
+- ✔️ Delete products  
+- ✔️ Low stock alert (products with stock below 5 are highlighted)  
+- ✔️ Real-time database synchronization  
+- ✔️ Responsive UI with clean design  
+- ✔️ Product image support
 
 ---
 
