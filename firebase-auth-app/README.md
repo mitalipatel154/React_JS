@@ -1,45 +1,45 @@
-# Firebase Auth System with React
+# 🚀 Firebase Auth System with React
 
 A **Firebase Authentication System** built using **React**, **React Router**, **Bootstrap**, and **Firebase Auth**.  
-This project allows users to **register**, **login**, and **access a protected dashboard**.
+This project allows users to **register**, **login**, and **access a protected dashboard**. 🔒
 
 ---
 
-## Features
+## ✨ Features
 
-- 🔹 User registration with email and password  
-- 🔹 User login with email and password  
-- 🔹 Protected dashboard using a private route  
-- 🔹 Logout functionality  
-- 🔹 Responsive UI using **Bootstrap**  
-- 🔹 Client-side routing with **React Router v6**
+- 📝 User registration with email and password  
+- 🔑 User login with email and password  
+- 🛡️ Protected dashboard using a private route  
+- 🚪 Logout functionality  
+- 📱 Responsive UI using **Bootstrap**  
+- 🌐 Client-side routing with **React Router v6**
 
 ---
 
-## Screenshots
+## 🖼️ Screenshots
 
-### Register Page
-![Register Page](./src/assets//images/screenshots/Register.png)
+### 🟢 Register Page
+![Register Page](./src/assets/images/screenshots/Register.png)
 
-### Login Page
+### 🔵 Login Page
 ![Login Page](./src/assets/images/screenshots/Login.png)
 
-### Dashboard Page
+### 🟣 Dashboard Page
 ![Dashboard Page](./src/assets/images/screenshots/Dashboard.png)
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- **React** (v18+)  
-- **React Router v6**  
-- **Firebase Authentication**  
-- **Bootstrap 5**  
-- **JavaScript (ES6+)**
+- ⚛️ **React** (v18+)  
+- 🧭 **React Router v6**  
+- 🔥 **Firebase Authentication**  
+- 🎨 **Bootstrap 5**  
+- 💻 **JavaScript (ES6+)**
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```
 src/
