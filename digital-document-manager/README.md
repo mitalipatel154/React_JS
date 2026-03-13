@@ -10,18 +10,18 @@ The project stores files in **Base64 format inside Firebase Realtime Database**,
 
 # 🚀 Features
 
-✅ Upload documents (Images 🖼️ & PDFs 📄)
-✅ File preview before upload 👀
-✅ Drag & Drop file upload 🖱️
-✅ Progress bar during upload 📊
-✅ Preview uploaded files inside cards
-✅ Rename documents ✏️
-✅ Delete documents 🗑️
-✅ Download documents ⬇️
-✅ Real-time updates from Firebase 🔄
-✅ Search documents by name 🔎
-✅ Clean responsive UI using Tailwind CSS 🎨
-✅ Container-based dashboard layout 📦
+* ✅ Upload documents (Images 🖼️ & PDFs 📄)
+* ✅ Drag & Drop file upload 🖱️
+* ✅ File preview before upload 👀
+* ✅ Progress bar during upload 📊
+* ✅ Preview uploaded files inside cards
+* ✅ Rename documents ✏️
+* ✅ Delete documents 🗑️
+* ✅ Download documents ⬇️
+* ✅ Real-time updates from Firebase 🔄
+* ✅ Search documents by name 🔎
+* ✅ Clean responsive UI using Tailwind CSS 🎨
+* ✅ Container-based dashboard layout 📦
 
 ---
 
@@ -76,11 +76,11 @@ src
 
 # ⚙️ How It Works
 
-1️⃣ The user selects a file or drags it into the upload area.
-2️⃣ The file is converted into **Base64 format** using `FileReader`.
-3️⃣ The Base64 file data is stored in **Firebase Realtime Database 🔥**.
-4️⃣ The app listens for **real-time database updates 🔄**.
-5️⃣ Files are displayed as **cards with preview, rename, delete, and download options 📂**.
+* 1️⃣ The user selects a file or drags it into the upload area.
+* 2️⃣ The file is converted into **Base64 format** using `FileReader`.
+* 3️⃣ The Base64 file data is stored in **Firebase Realtime Database 🔥**.
+* 4️⃣ The app listens for **real-time database updates 🔄**.
+* 5️⃣ Files are displayed as **cards with preview, rename, delete, and download options 📂**.
 
 ---
 
@@ -126,10 +126,10 @@ http://localhost:5173
 
 # 🔥 Firebase Setup
 
-1️⃣ Open **Firebase Console**
-2️⃣ Create a new project
-3️⃣ Enable **Realtime Database**
-4️⃣ Set database rules for development
+* 1️⃣ Open **Firebase Console**
+* 2️⃣ Create a new project
+* 3️⃣ Enable **Realtime Database**
+* 4️⃣ Set database rules for development
 
 Example rules:
 
@@ -173,14 +173,14 @@ This allows the app to **preview files instantly in the browser 👀** without n
 
 The dashboard includes:
 
-📤 File upload section
-🖱️ Drag & drop upload area
-👀 File preview before upload
-📊 Upload progress indicator
-📂 File cards with preview
-✏️ Rename and delete options
-⬇️ Download files
-🔎 Search filter
+* 📤 File upload section
+* 🖱️ Drag & drop upload area
+* 👀 File preview before upload
+* 📊 Upload progress indicator
+* 📂 File cards with preview
+* ✏️ Rename and delete options
+* ⬇️ Download files
+* 🔎 Search filter
 
 ---
 
